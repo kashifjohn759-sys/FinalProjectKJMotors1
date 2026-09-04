@@ -1,0 +1,39 @@
+/* ==========================================================================
+   KJ MOTORS — Motion
+   One orchestrated load-in sequence on the hero; purposeful hover/interaction
+   feedback elsewhere. Respects prefers-reduced-motion throughout.
+   ========================================================================== */
+
+@keyframes riseIn{
+  from{ opacity:0; transform: translateY(18px); }
+  to{ opacity:1; transform: translateY(0); }
+}
+@keyframes fadeIn{
+  from{ opacity:0; } to{ opacity:1; }
+}
+@keyframes lineGrow{
+  from{ transform: scaleX(0); } to{ transform: scaleX(1); }
+}
+
+.hero-tag{ animation: riseIn .6s ease .1s both; }
+.hero h1{ animation: riseIn .7s ease .22s both; }
+.hero p{ animation: riseIn .7s ease .34s both; }
+.hero-actions{ animation: riseIn .7s ease .46s both; }
+.hero-stats{ animation: fadeIn .8s ease .6s both; }
+
+.reveal{ opacity:0; transform: translateY(16px); transition: opacity .5s ease, transform .5s ease; }
+.reveal.is-visible{ opacity:1; transform: translateY(0); }
+
+.faq-icon{ display:inline-block; }
+
+.spin{ animation: spin 0.9s linear infinite; }
+@keyframes spin{ to{ transform: rotate(360deg); } }
+
+@media (prefers-reduced-motion: reduce){
+  *, *::before, *::after{
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

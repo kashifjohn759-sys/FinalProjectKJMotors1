@@ -1,0 +1,110 @@
+id,image_filename,brand,model,year,origin,category,price,search_suggestion
+1,1.jpg,Toyota,Corolla,2021,Japanese,luxury,24000,2021 Toyota Corolla
+2,2.jpg,Toyota,Camry,2016,Japanese,luxury,35500,2016 Toyota Camry
+3,3.jpg,Toyota,Supra,2024,Japanese,sports,44500,2024 Toyota Supra
+4,4.jpg,Toyota,Land Cruiser,2025,Japanese,suv,42000,2025 Toyota Land Cruiser
+5,5.jpg,Toyota,RAV4,2020,Japanese,suv,36000,2020 Toyota RAV4
+6,6.jpg,Toyota,86,2018,Japanese,sports,30000,2018 Toyota 86
+7,7.jpg,Toyota,Crown,2017,Japanese,luxury,37500,2017 Toyota Crown
+8,8.jpg,Toyota,Century,2021,Japanese,luxury,34500,2021 Toyota Century
+9,9.jpg,Toyota,Prius,2019,Japanese,luxury,21500,2019 Toyota Prius
+10,10.jpg,Toyota,Hilux,2017,Japanese,luxury,23000,2017 Toyota Hilux
+11,11.jpg,Toyota,Yaris,2017,Japanese,luxury,44000,2017 Toyota Yaris
+12,12.jpg,Honda,Civic Type R,2025,Japanese,luxury,35000,2025 Honda Civic Type R
+13,13.jpg,Honda,Accord,2020,Japanese,luxury,41000,2020 Honda Accord
+14,14.jpg,Honda,NSX,2021,Japanese,sports,28000,2021 Honda NSX
+15,15.jpg,Honda,CR-V,2020,Japanese,suv,26500,2020 Honda CR-V
+16,16.jpg,Honda,S2000,2022,Japanese,sports,51500,2022 Honda S2000
+17,17.jpg,Honda,Civic,2021,Japanese,luxury,42500,2021 Honda Civic
+18,18.jpg,Honda,Odyssey,2019,Japanese,luxury,20500,2019 Honda Odyssey
+19,19.jpg,Honda,e:Ny1,2022,Japanese,luxury,37500,2022 Honda e:Ny1
+20,20.jpg,Honda,HR-V,2016,Japanese,suv,38500,2016 Honda HR-V
+21,21.jpg,Nissan,GT-R,2022,Japanese,sports,29000,2022 Nissan GT-R
+22,22.jpg,Nissan,Fairlady Z,2023,Japanese,luxury,23500,2023 Nissan Fairlady Z
+23,23.jpg,Nissan,Skyline GT-R,2024,Japanese,sports,29000,2024 Nissan Skyline GT-R
+24,24.jpg,Nissan,Patrol,2020,Japanese,suv,32500,2020 Nissan Patrol
+25,25.jpg,Nissan,X-Trail,2023,Japanese,suv,37000,2023 Nissan X-Trail
+26,26.jpg,Nissan,Leaf,2023,Japanese,electric,52000,2023 Nissan Leaf
+27,27.jpg,Nissan,Silvia,2024,Japanese,sports,40500,2024 Nissan Silvia
+28,28.jpg,Nissan,Ariya,2017,Japanese,electric,47000,2017 Nissan Ariya
+29,29.jpg,Nissan,Juke,2021,Japanese,suv,47500,2021 Nissan Juke
+30,30.jpg,Mazda,MX-5 Miata,2019,Japanese,sports,36000,2019 Mazda MX-5 Miata
+31,31.jpg,Mazda,RX-7,2016,Japanese,sports,27000,2016 Mazda RX-7
+32,32.jpg,Mazda,CX-60,2023,Japanese,suv,33500,2023 Mazda CX-60
+33,33.jpg,Mazda,Mazda6,2019,Japanese,luxury,35000,2019 Mazda Mazda6
+34,34.jpg,Mazda,CX-5,2021,Japanese,suv,44000,2021 Mazda CX-5
+35,35.jpg,Mazda,MX-30,2018,Japanese,electric,38000,2018 Mazda MX-30
+36,36.jpg,Mazda,Mazda3,2022,Japanese,luxury,34000,2022 Mazda Mazda3
+37,37.jpg,Lexus,LC 500,2018,Japanese,luxury,40000,2018 Lexus LC 500
+38,38.jpg,Lexus,RX 350,2025,Japanese,luxury,69000,2025 Lexus RX 350
+39,39.jpg,Lexus,LX 600,2016,Japanese,suv,99500,2016 Lexus LX 600
+40,40.jpg,Lexus,IS 500,2019,Japanese,luxury,92000,2019 Lexus IS 500
+41,41.jpg,Lexus,ES 300h,2025,Japanese,luxury,59500,2025 Lexus ES 300h
+42,42.jpg,Lexus,LFA,2025,Japanese,sports,123500,2025 Lexus LFA
+43,43.jpg,Lexus,UX 250h,2024,Japanese,suv,43000,2024 Lexus UX 250h
+44,44.jpg,Subaru,WRX STI,2023,Japanese,sports,58500,2023 Subaru WRX STI
+45,45.jpg,Subaru,BRZ,2023,Japanese,sports,35500,2023 Subaru BRZ
+46,46.jpg,Subaru,Outback,2024,Japanese,suv,41500,2024 Subaru Outback
+47,47.jpg,Subaru,Forester,2024,Japanese,suv,47000,2024 Subaru Forester
+48,48.jpg,Subaru,Levorg,2023,Japanese,luxury,39500,2023 Subaru Levorg
+49,49.jpg,Subaru,Impreza,2018,Japanese,luxury,36500,2018 Subaru Impreza
+50,50.jpg,Mitsubishi,Lancer Evolution,2019,Japanese,luxury,40000,2019 Mitsubishi Lancer Evolution
+51,51.jpg,Mitsubishi,Pajero,2018,Japanese,suv,36500,2018 Mitsubishi Pajero
+52,52.jpg,Mitsubishi,Outlander,2019,Japanese,suv,25500,2019 Mitsubishi Outlander
+53,53.jpg,Mitsubishi,Eclipse Cross,2021,Japanese,luxury,28500,2021 Mitsubishi Eclipse Cross
+54,54.jpg,Mitsubishi,ASX,2016,Japanese,suv,33500,2016 Mitsubishi ASX
+55,55.jpg,Suzuki,Jimny,2019,Japanese,suv,17500,2019 Suzuki Jimny
+56,56.jpg,Suzuki,Swift Sport,2022,Japanese,sports,37500,2022 Suzuki Swift Sport
+57,57.jpg,Suzuki,Vitara,2024,Japanese,suv,25500,2024 Suzuki Vitara
+58,58.jpg,Suzuki,Swift,2018,Japanese,luxury,21000,2018 Suzuki Swift
+59,59.jpg,Infiniti,Q60,2017,Japanese,luxury,48500,2017 Infiniti Q60
+60,60.jpg,Infiniti,QX80,2024,Japanese,suv,67500,2024 Infiniti QX80
+61,61.jpg,Infiniti,Q50,2018,Japanese,luxury,51000,2018 Infiniti Q50
+62,62.jpg,Acura,NSX,2019,Japanese,sports,69000,2019 Acura NSX
+63,63.jpg,Acura,MDX,2020,Japanese,suv,38000,2020 Acura MDX
+64,64.jpg,Acura,Integra Type S,2024,Japanese,luxury,63000,2024 Acura Integra Type S
+65,65.jpg,BMW,M3 Competition,2024,German,sports,115500,2024 BMW M3 Competition
+66,66.jpg,BMW,M4,2018,German,sports,117500,2018 BMW M4
+67,67.jpg,BMW,i4,2020,German,electric,104000,2020 BMW i4
+68,68.jpg,BMW,X5,2022,German,suv,110500,2022 BMW X5
+69,69.jpg,BMW,3 Series,2018,German,luxury,54500,2018 BMW 3 Series
+70,70.jpg,BMW,7 Series,2024,German,luxury,76500,2024 BMW 7 Series
+71,71.jpg,BMW,Z4,2021,German,sports,113500,2021 BMW Z4
+72,72.jpg,BMW,iX,2016,German,electric,53000,2016 BMW iX
+73,73.jpg,BMW,M5,2016,German,sports,115500,2016 BMW M5
+74,74.jpg,BMW,X3,2024,German,suv,60000,2024 BMW X3
+75,75.jpg,BMW,1 Series,2023,German,luxury,53500,2023 BMW 1 Series
+76,76.jpg,Mercedes-Benz,AMG GT,2024,German,sports,159500,2024 Mercedes-Benz AMG GT
+77,77.jpg,Mercedes-Benz,S-Class,2025,German,luxury,145500,2025 Mercedes-Benz S-Class
+78,78.jpg,Mercedes-Benz,G-Wagon G63,2016,German,suv,59000,2016 Mercedes-Benz G-Wagon G63
+79,79.jpg,Mercedes-Benz,C-Class,2016,German,luxury,118000,2016 Mercedes-Benz C-Class
+80,80.jpg,Mercedes-Benz,EQS,2017,German,electric,154000,2017 Mercedes-Benz EQS
+81,81.jpg,Mercedes-Benz,GLE,2017,German,suv,147000,2017 Mercedes-Benz GLE
+82,82.jpg,Mercedes-Benz,SL 63 AMG,2019,German,sports,89500,2019 Mercedes-Benz SL 63 AMG
+83,83.jpg,Mercedes-Benz,A-Class,2020,German,luxury,136500,2020 Mercedes-Benz A-Class
+84,84.jpg,Mercedes-Benz,CLA,2018,German,luxury,79500,2018 Mercedes-Benz CLA
+85,85.jpg,Audi,RS6 Avant,2016,German,sports,130000,2016 Audi RS6 Avant
+86,86.jpg,Audi,A4,2020,German,luxury,126000,2020 Audi A4
+87,87.jpg,Audi,Q7,2024,German,suv,65000,2024 Audi Q7
+88,88.jpg,Audi,R8,2024,German,sports,124000,2024 Audi R8
+89,89.jpg,Audi,e-tron GT,2024,German,electric,77500,2024 Audi e-tron GT
+90,90.jpg,Audi,TT RS,2024,German,sports,94000,2024 Audi TT RS
+91,91.jpg,Audi,A8,2018,German,luxury,33500,2018 Audi A8
+92,92.jpg,Audi,Q8,2022,German,suv,82000,2022 Audi Q8
+93,93.jpg,Audi,A3,2017,German,luxury,58500,2017 Audi A3
+94,94.jpg,Volkswagen,Golf GTI,2022,German,sports,45500,2022 Volkswagen Golf GTI
+95,95.jpg,Volkswagen,Tiguan,2016,German,suv,53000,2016 Volkswagen Tiguan
+96,96.jpg,Volkswagen,Touareg,2021,German,suv,30000,2021 Volkswagen Touareg
+97,97.jpg,Volkswagen,ID.4,2024,German,electric,45000,2024 Volkswagen ID.4
+98,98.jpg,Volkswagen,Passat,2022,German,luxury,36000,2022 Volkswagen Passat
+99,99.jpg,Volkswagen,Arteon,2024,German,luxury,25000,2024 Volkswagen Arteon
+100,100.jpg,Volkswagen,Polo,2020,German,luxury,34500,2020 Volkswagen Polo
+101,101.jpg,Porsche,911 Turbo S,2018,German,sports,101000,2018 Porsche 911 Turbo S
+102,102.jpg,Porsche,Cayenne,2021,German,suv,190000,2021 Porsche Cayenne
+103,103.jpg,Porsche,Panamera,2024,German,luxury,79000,2024 Porsche Panamera
+104,104.jpg,Porsche,Taycan,2022,German,electric,178500,2022 Porsche Taycan
+105,105.jpg,Porsche,718 Cayman,2020,German,luxury,143500,2020 Porsche 718 Cayman
+106,106.jpg,Porsche,Macan,2024,German,suv,213000,2024 Porsche Macan
+107,107.jpg,Opel,Insignia,2022,German,luxury,23500,2022 Opel Insignia
+108,108.jpg,Opel,Astra GSi,2023,German,sports,44500,2023 Opel Astra GSi
+109,109.jpg,Opel,Corsa,2023,German,luxury,21000,2023 Opel Corsa

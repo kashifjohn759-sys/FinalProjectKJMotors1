@@ -1,0 +1,9 @@
+/* Homepage-only overrides */
+.category-tiles{ display:grid; grid-template-columns: repeat(4,1fr); gap:16px; }
+.category-tile{
+  position:relative; aspect-ratio: 3/3.4; border-radius: var(--radius); overflow:hidden;
+  background-size:cover; background-position:center; display:flex; align-items:flex-end; padding:18px;
+}
+.category-tile::after{ content:""; position:absolute; inset:0; background: linear-gradient(180deg, transparent 40%, rgba(20,24,28,0.85)); }
+.category-tile span{ position:relative; z-index:2; color:#fff; font-family: var(--f-display); font-weight:800; font-size:1.2rem; }
+@media (max-width:860px){ .category-tiles{ grid-template-columns: repeat(2,1fr); } }

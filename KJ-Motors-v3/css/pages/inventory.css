@@ -1,0 +1,7 @@
+/* Inventory / category listing page overrides */
+.pagination{ display:flex; gap:8px; justify-content:center; margin-top:36px; }
+.pagination button{
+  width:38px; height:38px; border:1.5px solid var(--line); background:#fff; border-radius: var(--radius);
+}
+.pagination button.is-active{ background: var(--ink); color:#fff; border-color: var(--ink); }
+.empty-state{ text-align:center; padding: 64px 20px; color: var(--steel); }
